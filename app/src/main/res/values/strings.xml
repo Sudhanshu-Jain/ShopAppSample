@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name ="CONTINUE">CONTINUE</string>
+    <string name="EmailHint">Please enter your Email Id</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name = "your_first_name">First Name</string>
+    <string name = "last_name_text">Last Name</string>
+    <string name="last_name_hint_text">Your Last name</string>
+    <string name="dob_text">DOB</string>
+    <string name="dob_text_value">Your date of birth</string>
+</resources>
